@@ -1,6 +1,6 @@
 # IA com Deep Learning para classificação de celulares.
 
-[![IA para Classificação de Celulares](thumbnail.png)]([https://player.vimeo.com/video/937434027](https://vimeo.com/937434027))
+[![IA para Classificação de Celulares]]([https://player.vimeo.com/video/937434027](https://vimeo.com/937434027))
 
 Este código Python é uma aplicação de aprendizado de máquina que utiliza a biblioteca TensorFlow para treinar um modelo de classificação de faixa de preço de dispositivos móveis. Ele constrói uma interface gráfica usando Tkinter para permitir que o usuário insira dados sobre as características de um dispositivo móvel, como capacidade da bateria, velocidade do clock, presença de Bluetooth, entre outros.
 
